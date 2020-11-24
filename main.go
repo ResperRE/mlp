@@ -10,7 +10,7 @@ import (
 	"strconv"
 	"strings"
 
-	"github.com/elementai/mlp/nn"
+	"github.com/ResperRE/mlp/nn"
 	"gonum.org/v1/gonum/mat"
 )
 
